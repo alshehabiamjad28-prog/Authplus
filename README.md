@@ -27,7 +27,7 @@ verification with OTP.
 
 ## Screenshots
 
-<!-- Add screenshots here -->
+<!--  -->
 
 ----
 
